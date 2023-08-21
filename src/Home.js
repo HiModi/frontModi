@@ -9,7 +9,7 @@ const Home = () =>{
 
     return (
         <div className="Home">
-            HomePage.
+            HomePage
             First!!!!!!!
             <button onClick={gomypage}>마이페이지로 이동</button>
         </div>
